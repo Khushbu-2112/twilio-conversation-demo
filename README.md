@@ -1,5 +1,9 @@
 # TwilioDemo
 
+Node version: 12.14.1 OR 14.20.0
+Angular version: 7.2.2
+Twilio-conversations version: 2.1.0
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
