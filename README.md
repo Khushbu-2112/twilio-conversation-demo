@@ -1,8 +1,20 @@
 # TwilioDemo
 
 Node version: 12.14.1 OR 14.20.0
+
 Angular version: 7.2.2
+
 Twilio-conversations version: 2.1.0
+
+Steps:
+
+1. Clone this repo to your local system
+
+2. Do check versions mentioned for node & run command: npm i
+
+3. Check if project runs with command: npm start
+
+4. To get & check the error, Run the command: npm run build
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
